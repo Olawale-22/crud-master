@@ -27,7 +27,7 @@ This project demonstrates a microservices architecture with the following compon
 - **API Gateway**: Acts as a single entry point for all client requests.
 - **Inventory Service**: Provides CRUD operations for inventory items.
 - **Billing Service**: Queues billing requests using RabbitMQ.
-![Architecture](srcs/crud-master-diagram.png)
+![Architecture](/srcs/crud-master-diagram.png)
 
 
 ## Prerequisites
